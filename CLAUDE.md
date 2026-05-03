@@ -35,7 +35,6 @@ voice.md           # My writing voice and style guide
 template.md        # Standard page format — use this for every wiki page
 index.md           # Auto-maintained catalog of all wiki pages
 content/
-  00-welcome/                        # Course introduction and orientation
   01-mindset-and-confidence/         # Entrepreneurial mindset, growth, imposter syndrome, courage
   02-communication-and-influence/    # Listening, diagnostic questioning, transparency, strategic vulnerability
   03-personal-brand-and-identity/    # Brand stories, authenticity, touchpoints, portfolio, brand evolution
@@ -50,9 +49,9 @@ content/
 
 ## Reading Order and Branches
 
-The intended reading path is linear: 00 through 09. There is a deliberate branch around category 04:
+The intended reading path is linear: 01 through 09. There is a deliberate branch around category 04:
 
-- **Solo creators and freelancers building their brand** can stop after `04-specialization-and-positioning`. Categories 00-04 give them the inner game and outward positioning needed to show up clearly without yet running a business.
+- **Solo creators and freelancers building their brand** can stop after `04-specialization-and-positioning`. Categories 01-04 give them the inner game and outward positioning needed to show up clearly without yet running a business.
 - **Operators building a practice or studio** continue from `05-pricing-and-value-strategy` onward. Categories 05-09 assume the reader is monetizing, working with clients, and possibly building a team.
 
 When deciding where a new page belongs, ask: "Does this require running a business, charging clients, or managing operations?" If yes, it belongs in 05 or later. If a solo creator with no clients yet could benefit, it goes in 04 or earlier.
@@ -276,9 +275,6 @@ The index is a catalog of every page in the wiki. Maintain it on every ingest. S
 # Wiki Index
 
 ## Tutorials
-
-### Category: 00-welcome
-- [Tutorial Title](content/00-welcome/slug.mdx) — difficulty, brief description
 
 ### Category: 01-mindset-and-confidence
 - [Tutorial Title](content/01-mindset-and-confidence/slug.mdx) — difficulty, brief description

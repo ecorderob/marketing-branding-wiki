@@ -6,7 +6,7 @@
 content/{category}/{NN}-{slug}.mdx
 ```
 
-Where `{category}` is one of: `welcome`, `mindset-and-confidence`, `communication-and-influence`, `personal-brand-and-identity`, `specialization-and-positioning`, `pricing-and-value-strategy`, `client-acquisition-and-sales`, `business-operations-and-growth`, `creative-process-and-learning`, `resilience-and-long-term-vision`
+Where `{category}` is one of: `mindset-and-confidence`, `communication-and-influence`, `personal-brand-and-identity`, `specialization-and-positioning`, `pricing-and-value-strategy`, `client-acquisition-and-sales`, `business-operations-and-growth`, `creative-process-and-learning`, `resilience-and-long-term-vision`
 Where `{NN}` is a 2-digit sequence number within the category (e.g., `01`, `02`, `03`)
 And `{slug}` is kebab-case (e.g., `the-three-circle-framework`)
 
@@ -15,7 +15,7 @@ And `{slug}` is kebab-case (e.g., `the-three-circle-framework`)
 ```yaml
 ---
 title: "{NN. Descriptive title, 5-12 words}"
-category: "{welcome | mindset-and-confidence | communication-and-influence | personal-brand-and-identity | specialization-and-positioning | pricing-and-value-strategy | client-acquisition-and-sales | business-operations-and-growth | creative-process-and-learning | resilience-and-long-term-vision}"
+category: "{mindset-and-confidence | communication-and-influence | personal-brand-and-identity | specialization-and-positioning | pricing-and-value-strategy | client-acquisition-and-sales | business-operations-and-growth | creative-process-and-learning | resilience-and-long-term-vision}"
 difficulty: "{beginner | intermediate | advanced}"
 readTime: "{N} min"
 publishedAt: "{YYYY-MM-DD}"
